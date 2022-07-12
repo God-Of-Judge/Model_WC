@@ -28,7 +28,7 @@ def get_args_parser(add_help=True):
     parser.add_argument('--conf-file', default='./configs/yolov6s.py', type=str, help='experiments description file')
     # parser.add_argument('--img-size', type=int, default=640, help='train, val image size (pixels)')
     parser.add_argument('--img-size', type=int, default=1920, help='train, val image size (pixels)')
-    parser.add_argument('--batch-size', default=32, type=int, help='total batch size for all GPUs')
+    parser.add_argument('--batch-size', default=4, type=int, help='total batch size for all GPUs')
     parser.add_argument('--epochs', default=30, type=int, help='number of total epochs to run')
     parser.add_argument('--workers', default=4, type=int, help='number of data loading workers (default: 8)')
     parser.add_argument('--device', default='0', type=str, help='cuda device, i.e. 0 or 0,1,2,3 or cpu')
