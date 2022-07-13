@@ -1,6 +1,10 @@
 YOLOV6/custom_dataset/
 lanenet-lane-detection/tools/data/ckpt_file/
 
+LaneDetectionCode/data/trainset/
+LaneDetectionCode/data/testset/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
