@@ -4,6 +4,8 @@ lanenet-lane-detection/tools/data/ckpt_file/
 LaneDetectionCode/data/trainset/
 LaneDetectionCode/data/testset/
 
+yolov5-master/dataset/images/
+yolov5-master/dataset/labels/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
