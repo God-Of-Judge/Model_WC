@@ -7,5 +7,5 @@ names:
 - strait
 - cross
 nc: 7
-train: dataset/train.txt
-val: dataset/val.txt
+train: ./dataset/train.txt
+val: ./dataset/val.txt

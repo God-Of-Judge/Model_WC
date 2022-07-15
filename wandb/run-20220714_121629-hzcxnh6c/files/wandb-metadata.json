@@ -1,0 +1,24 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-07-14T03:16:32.884206",
+    "startedAt": "2022-07-14T03:16:29.633237",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 2070",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "d:/Model_WC/yolov5-master/train.py",
+    "codePath": "yolov5-master\\train.py",
+    "git": {
+        "remote": "https://github.com/God-Of-Judge/Model_WC.git",
+        "commit": "7f31b2b543aeea1ca45ca659b1a051713a6d7993"
+    },
+    "email": "oocheol@naver.com",
+    "root": "D:/Model_WC",
+    "host": "DESKTOP-DB66BTO",
+    "username": "smhrd",
+    "executable": "C:\\Users\\smhrd\\anaconda3\\envs\\dacon\\python.exe"
+}
