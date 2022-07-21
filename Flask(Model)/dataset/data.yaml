@@ -1,0 +1,13 @@
+names:
+- red
+- yellow
+- green
+- white-dotted
+- white-solid
+- cross
+- straigt
+- right
+- left
+nc: '9'
+train: dataset/train.txt
+val: dataset/val.txt

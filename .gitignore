@@ -7,6 +7,10 @@ LaneDetectionCode/data/testset/
 yolov5-master/dataset/images/
 yolov5-master/dataset/labels/
 
+*.txt
+*.jpg
+*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
