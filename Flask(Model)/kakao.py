@@ -5,7 +5,7 @@ url = "https://kapi.kakao.com/v2/api/talk/memo/default/send"
 
 # 사용자 토큰
 headers = {
-    "Authorization": "Bearer " + "1NLOTXkbJXA8-bOM8bdppOWGjFNasPU9wpPNLMJ-CisMpgAAAYIZPRXQ"
+    "Authorization": "Bearer " + "6EuEDHtLWDfb0pX0ofRy0M3XeFpG6nZOh0XsqzlwCisMpwAAAYIia_2E"
 }
 
 template = {
@@ -17,7 +17,7 @@ template = {
     },
     "contents" : [
         {
-            "title" : "본인 20 : 상대방 80",
+            "title" : "본인 0 : 상대방 100",
             "description" : "교차로 사고",
             "image_url" : "https://media.bunjang.co.kr/product/169940835_1_1636957290_w%7Bres%7D.jpg",
             "image_width" : 50, "image_height" : 50,
@@ -27,7 +27,7 @@ template = {
             }
         },
         {
-            "title" : "본인 0 : 상대방 100",
+            "title" : "",
             "description" : "차선 변경 사고",
             "image_url" : "https://media.bunjang.co.kr/product/169940835_1_1636957290_w%7Bres%7D.jpg",
             "image_width" : 50, "image_height" : 50,
